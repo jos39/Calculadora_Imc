@@ -1,5 +1,5 @@
 # Calculadora de Índice de masa corporal (IMC) </h1>
-Este programa esta diseñado en Python para que el usuario introduzca sus datos y en base a eso poder calcular su Índice de Masa Corporal (IMC).
+Este programa esta diseñado en Python y hecho en visual studio code para que el usuario introduzca sus datos y en base a eso poder calcular su Índice de Masa Corporal (IMC).
 
 # Funcionamiento
 El programa requiere que el usuario introduzca los siguientes datos para poder sacar el IMC
